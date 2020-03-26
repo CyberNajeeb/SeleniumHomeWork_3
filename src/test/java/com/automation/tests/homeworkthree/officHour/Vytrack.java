@@ -35,7 +35,6 @@ public class Vytrack {
 
     public static void main(String[] args) {
 
-
         HashMap<String, String> hashMap = new HashMap<>();
         hashMap.put("First Name", "John");
         hashMap.put("Last Name", "Doe");
